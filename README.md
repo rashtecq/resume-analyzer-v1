@@ -52,8 +52,8 @@ ollama pull llama3.1</span></span></code></div></div></pre>
 
 ### 1️⃣ Clone the Repository
 
-<pre class="overflow-visible! px-0!" data-start="2138" data-end="2233"><div class="contain-inline-size rounded-2xl corner-superellipse/1.1 relative bg-token-sidebar-surface-primary"><div class="@w-xl/main:top-9 sticky top-[calc(--spacing(9)+var(--header-height))]"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>git </span><span><span class="hljs-built_in">clone</span></span><span> https://github.com/<your-username>/resume-analyzer.git
-</span><span><span class="hljs-built_in">cd</span></span><span> resume-analyzer
+<pre class="overflow-visible! px-0!" data-start="2138" data-end="2233"><div class="contain-inline-size rounded-2xl corner-superellipse/1.1 relative bg-token-sidebar-surface-primary"><div class="@w-xl/main:top-9 sticky top-[calc(--spacing(9)+var(--header-height))]"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>git </span><span><span class="hljs-built_in">clone</span></span><span> https://github.com/rashtecq/resume-analyzer-v1.git
+</span><span><span class="hljs-built_in">cd</span></span><span> resume-analyzer-v1
 </span></span></code></div></div></pre>
 
 ### 2️⃣ Create Virtual Environment
@@ -106,8 +106,6 @@ It is ideal for:
 * Demonstrating real-world LLM applications
 
 ---
-
-## 🚧 Roadmap
 
 ## 🚧 Roadmap
 
