@@ -1,5 +1,5 @@
-streamlit
-langchain-community
-ollama
-pypdf
-python-docx
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
